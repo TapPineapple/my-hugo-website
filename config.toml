@@ -8,10 +8,11 @@ paginate = 5
   contentTypeName = "post"
   # "light" or "dark"
   defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
+  # if you set this to 0, only submenu trigger  bwille visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
   showReadingTime = false
+  hideReadMore = true
 
 [languages]
   [languages.en]
@@ -30,19 +31,11 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "./welcome-to-my-site"
       logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+    
