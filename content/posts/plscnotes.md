@@ -6,17 +6,15 @@ tags = [
 ]
 date = "2023-04-10"
 categories = [
-    "c++",
-    "youtube",
-    "crackme"
+    "notes",
+    "plsc",
 ]
 +++
 
 
 ## PLSC 250
 
-<br>
-
+* **
 4/10
 ### How has Federalism changed over time?
 * 1800 election
@@ -56,4 +54,48 @@ categories = [
   * Run under a label
   * label = package of policies
   * govern
-* 
+* The aspects of political parties
+  * Party as organization (RNC, DNC, etc.)
+  * Party in government (elected officials)
+  * Party in the electorate (voters)
+* Parties as organizations
+  * Republican National Committee
+  * Democratic National committee
+  * State and local organizations
+  * Sets rules for selecting their party's canadates
+  * fundraising
+  * campaign
+  * mobilize voters
+* Party in government
+  * Leaders in congress
+  * US House leaders
+* Party control of government
+  * Divided or united?
+  * One party in control now unusual
+* Party in th eletorate
+  * Voters party attachment
+    * Coalitions of voters
+  * Enduring loyalties to parties
+  * More than just ideology or brand loyalty
+  * Infomation shortcut
+    * Record of policies
+* Survey measure of parrty in the electorate
+    * generally speaking, do you consider ourself a democrat, Republican, independent, or what?
+      * if D or R, are you strong or weak?
+    * US survey
+      * in the US 28% say democrat
+      * 44% independent
+      * 27% republican
+    * in WA
+      * 42% democrat
+      * 34% independent
+      * 24% republican
+  
+* Question? Where do party attachments come from?
+  * Does being "independent" mean anything
+* Who should pick the party's candidates?
+  * Party organization
+  * party in government
+  * voters electorate from the party
+    * If voters, which ones?
+    * Everyone?
