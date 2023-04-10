@@ -1,5 +1,5 @@
 +++
-title = "Easy Crackme"
+title = "Easy Crackme (WIP)"
 description = ""
 type = ["posts","post"]
 tags = [
@@ -13,7 +13,7 @@ categories = [
 +++
 
 
-## Easy Crackme Tutorial
+## Easy Crackme Tutorial (WIP)
 
 This writeup could be used as a refrence in addition to the youtube video that I made. 
 
