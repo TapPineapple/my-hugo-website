@@ -1,19 +1,13 @@
 +++
-title = "About"
-date = "2014-04-09"
+title = "About Me"
+date = "2023-04-09"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Hugo Authors"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Welcome to my Webiste! My name is Adin, I am currently studying Cybersecurity at Western Washington University and Whatcom Community College. I'm working as a student employee with WWU ResTek as a Server Admin.
 
-It makes use of a variety of open source projects including:
+I like building servers and trying to break them (sometimes without trying), I also like to reverse engineer games. 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).

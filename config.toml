@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
+baseURL = "https://adinjura.com"
+title   = "Adin's Site"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Adin Jura"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Welcome to my website! Feel free to take a look around!"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -94,7 +94,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -116,13 +116,12 @@ disableHugoGeneratorInject = false
   [params.footer]
     trademark = true
     rss = true
-    copyright = true
+    copyright = false
     author = true
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "Site powered by <a href=\"http://gohugo.io\">Hugo</a>",
     ]
 
   # Colors for favicons
@@ -134,7 +133,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "$ cd /my-site/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -164,25 +163,22 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:adinandrewjura@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/TapPineapple"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/adin-jura-56a931255/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UCjZx7J4qfJhQzgtJOhZIG_Q"
 
 [languages]
   [languages.en]
@@ -198,9 +194,9 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "About Me"
     url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name       = "Posts"
+  #  url        = "posts/"
