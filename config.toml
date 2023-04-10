@@ -13,6 +13,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 # googleAnalytics = ""
 # disqusShortname = ""
 
+defaultTheme = "dark"
+
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
@@ -69,7 +71,6 @@ disableHugoGeneratorInject = false
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
   # gitUrl = ""
-
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
   disableReadOtherPosts = false
@@ -80,7 +81,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
