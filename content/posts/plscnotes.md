@@ -99,5 +99,47 @@ categories = [
   * voters electorate from the party
     * If voters, which ones?
     * Everyone?
+  
+  * **
+  4/17
 
-  > hug(this is my last change)
+  ### Why only 2 major parties?
+* Institutional forces!
+  * -Electoral system facilitate 2 party vs. multi-party systems
+* Elsewhere:
+  * Multi-party systems
+  * seem to be managing very well
+  * more parties = coalition governments
+* Mutli-party coalitions government
+  * The coalition government
+  * Israel eight-party coalitions that unseated Netanyahu
+* Why a two-party system?
+  * Single member districts
+    * -plurality wins a seat
+
+  * winner takes all rules
+  * 'law':SMDs cause 2 party systems
+    * many exceptions
+
+* Wnner-take-all rules
+  * Psychological /behavioral:
+  * Duverger's Law; fear of wasted vote
+  * vote your second choice to avoid least preferred candidate from winning
+  * but people some still vote 'third party'
+    * when do people vote for 'third' party in UUS presidential elections?
+* Summary
+  * Winner take all
+  * people don't want to waste their votes.
+  * Ballot access laws
+    * set by state legislators
+    * catch 22
+  * minor party must post x% in statewide race to have access for their candidate in the next election
+
+* Prospects
+* ranked choice voting
+  * the australian system
+  * sort of majoritarian, but
+  * allows supporters of minor parties to express sincere vote in first round
+  * people can really vote for who they want without worrying about their vote being lost.
+
+  > 
