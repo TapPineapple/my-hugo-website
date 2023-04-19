@@ -145,52 +145,53 @@ categories = [
 * **
   ### Early US Federalists
 
-* Federalist Party formed in 1792 to support strong central government and the Constitution
-  * Led by Alexander Hamilton, James Madison, and John Jay
-  * Opposed by the Democratic-Republican Party, led by Thomas Jefferson and James Madison
+* Federalist Party formed in 1792 to suport strong central government and the Consititution
+  * Led by Alexander Hamilton, James Maddison, and John Jay
+  * Opposed by the Democratic-Republican Party, led by Thomas Jefforson and James Maddison
 * Federalist beliefs and principles
-  * Strong central government with broad powers
-  * Constitution as the supreme law of the land
-  * Emphasis on commerce, trade, and industry
-  * Favorable to the interests of the wealthy and powerful
-  * Fearful of mob rule and excessive democracy
-* Federalist policies and achievements
+  * Strong central goverment with broad powers
+  * Consititution as the supreme law of the land
+  * Emphassis on commerce, trade, and industry
+  * Favorable to the interests of the wealthy and powerfull
+  * Fearful of mob rule and excesive democracy
+* Federalist policies and acheivments
   * Creation of the First Bank of the United States
   * Establishment of a national debt to promote creditworthiness and economic growth
-  * Support for protective tariffs to encourage domestic manufacturing
+  * Support for protective tariffs to encourage domestic manufactoring
   * Jay Treaty with Britain to settle trade disputes and avoid war
   * Quasi-War with France to defend American neutrality and honor
 * Decline and legacy of the Federalist Party
   * Split over the War of 1812 and opposition to it
   * Losing the presidency and control of Congress to the Democratic-Republicans
-  * Criticized as elitist and out of touch with the common people
-  * Legacy of promoting a strong federal government and economic development
+  * Criticized as elitest and out of touch with the common people
+  * Legacy of promoting a strong federal goverment and economic development
   * Influence on the development of American constitutional law and political theory
 
 ### Anti-Federalists
 
-* Anti-Federalists were a loose coalition of individuals and groups opposed to the Constitution and a strong central government in the late 1780s
-  * Led by Patrick Henry, Samuel Adams, Richard Henry Lee, and George Mason
-  * Opposed by the Federalist Party, led by Alexander Hamilton, James Madison, and John Jay
+* Anti-Federalists were a loose colition of individuals and groups opposed to the Consititution and a strong central government in the late 1780s
+  * Led by Patrick Henry, Sammuel Adams, Richard Henry Lee, and George Mason
+  * Opposed by the Federalist Party, led by Alexander Hamilton, James Maddison, and John Jay
 * Anti-Federalist beliefs and principles
-  * States' rights and sovereignty over the federal government
-  * Limited central government with enumerated powers
+  * States' rights and sovreignty over the federal government
+  * Limited central goverment with enumerated powers
   * Bill of Rights to protect individual liberties and restrain federal power
-  * Fearful of tyranny and corruption by a strong central government
+  * Fearful of tiranny and corruption by a strong central government
   * Support for a more democratic and participatory political system
-* Anti-Federalist criticisms of the Constitution
+* Anti-Federalist criticisms of the Consititution
   * Lacked a Bill of Rights to protect individual liberties
-  * Created a powerful and unaccountable executive branch
-  * Ignored the sovereignty of the states and the people
+  * Created a powerfull and unacountable executive branch
+  * Ignored the sovreignty of the states and the people
   * Threatened to establish a monarchy or aristocracy
   * Failed to provide for direct representation and popular control over government
-* Anti-Federalist policies and achievements
-  * Advocated for the addition of a Bill of Rights to the Constitution
+* Anti-Federalist policies and acheivments
+  * Advocated for the addition of a Bill of Rights to the Consititution
   * Pushed for a more democratic and participatory political system, including direct election of representatives
   * Criticized the Alien and Sedition Acts as violations of individual liberties and states' rights
 * Decline and legacy of the Anti-Federalists
-  * Defeated in the ratification of the Constitution, which was adopted without a Bill of Rights
+  * Defeated in the ratification of the Consititution, which was adopted without a Bill of Rights
   * Some Anti-Federalists went on to join the Democratic-Republican Party
   * Legacy of promoting individual liberties, states' rights, and participatory democracy
   * Influence on the development of American constitutional law and political theory
+
 
