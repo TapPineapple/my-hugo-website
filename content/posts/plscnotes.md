@@ -239,5 +239,3 @@ categories = [
 ## What is the significance of the commerce clause in the Constitution?
 - The commerce clause gives Congress the power to regulate commerce among the states and with foreign nations.
 - This power has been used to regulate a wide range of economic activity, from interstate transportation to environmental regulation to labor standards.
-
-## What is party in government? Parties as institutions /
