@@ -126,7 +126,7 @@ categories = [
   * Duverger's Law; fear of wasted vote
   * vote your second choice to avoid least preferred candidate from winning
   * but people some still vote 'third party'
-    * when do people vote for 'third' party in UUS presidential elections?
+    * when do people vote for 'third' party in US presidential elections?
 * Summary
   * Winner take all
   * people don't want to waste their votes.
@@ -194,48 +194,38 @@ categories = [
   * Legacy of promoting individual liberties, states' rights, and participatory democracy
   * Influence on the development of American constitutional law and political theory
 
-# Quick Markdown Notes
+* **
+4/26
 
-## What is a perfect, or "ideal", democracy? What is polyarchy?
-- Perfect or ideal democracy: a system in which every citizen has an equal voice and an equal vote in every decision that affects their lives.
-- Polyarchy: a modern concept of democracy that emphasizes competition between groups and institutions, rather than direct citizen participation in decision-making.
+### Corruption/Lobbyinguence the government
 
-## What were the motives of the framers of the US Constitution?
-- To create a stronger, more centralized government than the one under the Articles of Confederation.
-- To establish a system of checks and balances to prevent any one branch of government from becoming too powerful.
-- To protect individual rights and liberties.
+* Most people believe that the government is 'Crooked'
+  * this is because they don't understand
 
-## What were some of the anti-federalists criticisms of the constitution?
-- The Constitution lacked a Bill of Rights to protect individual liberties.
-- The Constitution created a powerful and unaccountable executive branch.
-- The Constitution ignored the sovereignty of the states and the people.
+* Interest groups
+  * Organized to influence governent
+  * 
+  * Inform government officials, public
+  * Secure benefits for members and supporters
 
-## What were some of the shortcomings of the Articles of Confederation?
-- Weak central government with no power to tax, regulate commerce, or enforce laws.
-- No executive branch to carry out laws or make decisions.
-- No national court system to interpret the law or settle disputes.
+* Lobbyist, defined
+  * Person who contacts government officials on behalf of a particular cause or issue
+    * If you do this enough you actually have to register as a lobbyist. 
+  * There are 11,500 registered federal lobbyist, more like 100,000 actually lobbying; 9 billion /year industry
+  * Top spenders:
+    * National Association or Realtors (81m)
+    * US Chambere of Commerce (81m)
+    * Pharma (29m)
+    * American Hostpital Asssoc. (27m)
+    * Blue Cross/ Blue shield (27m)
+    * Amazon.com (21m)
+    * American Medical Asssoc. (21m)
+    * Business Roundtable (20m)
+    * American Chemisty council (20m)
+    * Meta (Facebook) (19m)
 
-## How did the Constitution of 1787 deal with slavery?
-- The Constitution allowed slavery to continue in the Southern states.
-- The Three-Fifths Compromise counted slaves as three-fifths of a person for purposes of representation in Congress.
-- The Fugitive Slave Clause required that escaped slaves be returned to their owners.
-
-## What is federalism? How did the Constitution preserve a strong role for the states?
-- Federalism is a system of government in which power is divided between a central government and smaller regional governments.
-- The Constitution preserved a strong role for the states by reserving certain powers to them, such as the power to regulate commerce within their borders and the power to conduct elections.
-
-## How has federalism changed?
-- The balance of power between the federal government and the states has shifted over time, with the federal government gaining more power in areas such as civil rights, environmental regulation, and social welfare.
-- The Supreme Court has played a key role in defining the limits of federal power and protecting the rights of the states.
-
-## What were the Anti-Federalist fears about the new Constitution? How did the Federalists argue in favor of the (proposed) Constitution being ratified?
-- Anti-Federalist fears included that the Constitution lacked a Bill of Rights to protect individual liberties, created a powerful and unaccountable executive branch, and ignored the sovereignty of the states and the people.
-- The Federalists argued that the Constitution provided for a stronger, more effective government than the Articles of Confederation, that a Bill of Rights could be added later if necessary, and that the system of checks and balances would prevent any one branch of government from becoming too powerful.
-
-## Should it be easier to amend the Constitution? Evaluate the arguments of Levinson and Kyvig.
-- Levinson argues that the Constitution is too difficult to amend, making it hard to address new challenges and changes in society. He proposes a constitutional convention to address this issue.
-- Kyvig argues that the Constitution's difficulty in being amended is a feature, not a bug, and that the Founders intended it to be difficult to change in order to protect the fundamental principles of the American system of government.
-
-## What is the significance of the commerce clause in the Constitution?
-- The commerce clause gives Congress the power to regulate commerce among the states and with foreign nations.
-- This power has been used to regulate a wide range of economic activity, from interstate transportation to environmental regulation to labor standards.
+* Interest groups
+  * 3 views
+    * Pluralism: epen, participatory style of government in which many different interest ar represented
+    * Hyper-pluralism
+    * powerelite theory
