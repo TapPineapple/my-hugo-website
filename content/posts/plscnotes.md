@@ -229,3 +229,189 @@ categories = [
     * Pluralism: epen, participatory style of government in which many different interest ar represented
     * Hyper-pluralism
     * powerelite theory
+
++++
+title = "PLSC 250 Notes"
+description = ""
+type = ["posts","post"]
+tags = [
+]
+date = "2023-04-10"
+categories = [
+    "notes",
+    "plsc",
+]
++++
+
+
+## PLSC 250
+
+* **
+4/10
+### How has Federalism changed over time?
+* 1800 election
+  * They lost big time
+  * between 1796 and 1804 they lost most of their hold in the states
+  
+* Federalism 1819:
+  * Not limited to that enumerated in article 1
+  * National powers
+    * necessary and proper clause
+* Federalism role into the 20th century
+  * Barron v. Baltimore, 1833
+  * Layer cake, also known as dual federalism.
+    * People were citizen both US and States
+  * Citizen's fundamental rights derive from states.
+    * Bill of Rights limited national government, not states
+* Federalism, post 1930's
+  * Separation of powers between branches blers
+    * Much greater federal govt role vs states:
+      * education
+      * social services
+      * environment
+      * civil rights and liberties
+      * managing economy
+      * health care
+      * (federal grants, regulations now affect so much)
+  
+*   Q7: How has federalism changed?
+    *   much greater national powers
+    *   constitutional amendment 1868
+    *   crisis (great depression, WWII)
+    *   decades of court decisions in 20th century
+    *   More federal laws OK'd by courts
+### Political Parties
+* What are parties, what do they do?
+  * Recruit, elect candidates
+  * Run under a label
+  * label = package of policies
+  * govern
+* The aspects of political parties
+  * Party as organization (RNC, DNC, etc.)
+  * Party in government (elected officials)
+  * Party in the electorate (voters)
+* Parties as organizations
+  * Republican National Committee
+  * Democratic National committee
+  * State and local organizations
+  * Sets rules for selecting their party's canadates
+  * fundraising
+  * campaign
+  * mobilize voters
+* Party in government
+  * Leaders in congress
+  * US House leaders
+* Party control of government
+  * Divided or united?
+  * One party in control now unusual
+* Party in th eletorate
+  * Voters party attachment
+    * Coalitions of voters
+  * Enduring loyalties to parties
+  * More than just ideology or brand loyalty
+  * Infomation shortcut
+    * Record of policies
+* Survey measure of parrty in the electorate
+    * generally speaking, do you consider ourself a democrat, Republican, independent, or what?
+      * if D or R, are you strong or weak?
+    * US survey
+      * in the US 28% say democrat
+      * 44% independent
+      * 27% republican
+    * in WA
+      * 42% democrat
+      * 34% independent
+      * 24% republican
+  
+* Question? Where do party attachments come from?
+  * Does being "independent" mean anything
+* Who should pick the party's candidates?
+  * Party organization
+  * party in government
+  * voters electorate from the party
+    * If voters, which ones?
+    * Everyone?
+  
+  
+* **
+4/26
+
+### Corruption/Lobbyinguence the government
+
+* Most people believe that the government is 'Crooked'
+  * this is because they don't understand
+
+* Interest groups
+  * Organized to influence governent
+  * 
+  * Inform government officials, public
+  * Secure benefits for members and supporters
+
+* Lobbyist, defined
+  * Person who contacts government officials on behalf of a particular cause or issue
+    * If you do this enough you actually have to register as a lobbyist. 
+  * There are 11,500 registered federal lobbyist, more like 100,000 actually lobbying; 9 billion /year industry
+  * Top spenders:
+    * National Association or Realtors (81m)
+    * US Chambere of Commerce (81m)
+    * Pharma (29m)
+    * American Hostpital Asssoc. (27m)
+    * Blue Cross/ Blue shield (27m)
+    * Amazon.com (21m)
+    * American Medical Asssoc. (21m)
+    * Business Roundtable (20m)
+    * American Chemisty council (20m)
+    * Meta (Facebook) (19m)
+
+* Interest groups
+  * 3 views
+    * Pluralism: epen, participatory style of government in which many different interest ar represented
+    * Hyper-pluralism
+    * powerelite theory
+
+
+* **
+5/1
+## Changes over time
+
+* Opinions On Same Sex Marage
+  * Gone from 27% in 1997 and 70% in 2021
+* Gun laws
+  * They haven' changed much over time
+* Political socialization
+  * Childern learn very early
+    * they learn what party lables stand for
+    * which party cues to take
+  * Where else do we get opinions about our politics
+* Exit polls aren't the best
+* Public Opinion is often stable:
+  * Guns, abortion
+* public opinion can change over time:
+  * Same sex marage, or opinion on marijuana
+
+* **
+5/17
+
+* House Speaker heald a lot of power back in 1902
+* Seniority system formed in 1930s-1970s
+  * Norms changed as people stayed longer
+  * Growing complexity of business
+  * Committee chairs become a large source of  power.
+* Seniority System
+  * Longest serving members automatically chaired key committees
+  * Committee = subset of Congress having specific policy jurisdiction
+  * By 1963 100% of committee chairs were most senior
+* Subcommittee sysetm
+  * weakened role of seniority
+* sub-committee 'bill of rights'
+  * weakend power of senior chairs
+  increased porwer of 'rank-and-file' members
+    * increased number of sub-committees
+  * Everyone gets to be on one 'major' committee
+* Reforms of congress: Can anything help?
+  * Earmarks
+    * Better facilitate compromise
+  * Term limits
+    * greater turnover of members
+  * Proportional representation
+    * More parties, less polarization?
