@@ -415,3 +415,26 @@ categories = [
     * greater turnover of members
   * Proportional representation
     * More parties, less polarization?
+
+5/31
+
+## Civil Right Liberties
+
+* Something about how the bill has been nationalized will be on the exam.
+
+### Nationalization
+* The bill of right makes sure that congress shouldn't make any laws that modify a set list of rights.
+
+* Selective incorporation
+  * extending protections from the Bill of Rights to the state governments
+*  Prosecuted under NY criminal anarchy act of 1902; met 
+*  14th amendment
+### Right po privacy
+* Where it is in the bill of rights is mysterious
+* Griswold believed that there was a right to privacy inside the bill of rights.
+### Abortion
+* Is it a right?
+  * Roe v. Wade (1972) said that people had a right to abortion
+  * In first trimester, fetus is not viable so individual right out weighs state interest in regulating
+* Dobbs, 2022
+  * States have interest in reglating any stage of pregnacy
