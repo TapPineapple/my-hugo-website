@@ -1,7 +1,7 @@
 +++
 title = "PLSC 250 Notes"
 description = ""
-type = ["posts","post"]
+
 tags = [
 ]
 date = "2023-04-10"
