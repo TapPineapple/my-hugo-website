@@ -1,16 +1,3 @@
-+++
-title = "PLSC 250 Notes"
-description = ""
-
-tags = [
-]
-date = "2023-04-10"
-categories = [
-    "notes",
-    "plsc",
-]
-+++
-
 
 ## PLSC 250
 
