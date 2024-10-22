@@ -1,197 +1,108 @@
-baseURL = "https://adinjura.com"
-title   = "Adin's Site"
-languageCode = "en-us"
-theme = "hello-friend-ng"
+baseURL = "localhost"
+theme = "risotto"
+title = "Adin's Site"
+author = "Adin Jura"
+copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
 
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-
-paginate  = 10
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-# googleAnalytics = ""
-# disqusShortname = ""
-
-defaultTheme = "dark"
-
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
-
-buildDrafts  = false
-buildFuture  = false
-buildExpired = false
-canonifyURLs = true
-
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "Adin Jura"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+noindex = false
 
-  # Metadata mostly used in document's head
-  # 
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
-  images = [""]
+[params.theme]
+palette = "tender"
 
-  # Home subtitle of the index page.
-  #
-  homeSubtitle = "Welcome to my website! Feel free to take a look around!"
+# Sidebar: about/bio
+[params.about]
+title = "Adin's Site"
+description = "Welcome to my website! Feel free to take a look around!"
+# unicode/emoji logo:
+logo = "$"
+# or use an image:
+#logo_image = "images/rice.svg"
 
-  # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
-  # gitUrl = ""
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  #
-  disableReadOtherPosts = false
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/TapPineapple"
 
-  # Enable theme toggle
-  # 
-  # This options enables the theme toggle for the theme. 
-  # Per default, this option is off. 
-  # The theme is respecting the prefers-color-scheme of the operating systeme. 
-  # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = true
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:adinandrewjura@gmail.com"
 
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
-  enableSharingButtons = false
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/adinjura/"
 
-  # Global language menu
-  #
-  # Enables the global language menu.
-  #
-  enableGlobalLanguageMenu = false
+[[params.socialLinks]]
+icon = "fa-brands fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/@tappineapple3381"
 
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  #
-  customCSS = []
-  customJS  = []
+#[menu]
+#
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 10
 
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  #
-  justifyContent = false  # Set "text-align: justify" to .post-content.
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
 
-  # Integrate Plausible.io
-  # plausibleDataDomain = 'test.com'
-  # plausibleScriptSource = 'https://plausible.io/js/script.js'
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
 
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
-  #
-  [params.footer]
-    trademark = true
-    rss = true
-    copyright = false
-    author = true
+[markup]
 
-    topText = []
-    bottomText = [
-      "Site powered by <a href=\"http://gohugo.io\">Hugo</a>",
-    ]
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
 
-  # Colors for favicons
-  #
-  [params.favicon.color]
-    mask = "#1b1c1d"
-    msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+[privacy]
 
-  [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /my-site/"
-    logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
-    # Append the current url pathname to logoText 
-    # logoCursorPathname = true
+  [privacy.vimeo]
+    disabled = false
+    simple = true
 
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
-  # [params.commento]
-  #   url = ""
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
 
-  # Uncomment this if you want a portrait on your start page
-  #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  [privacy.instagram]
+    disabled = false
+    simple = true
 
-  # Social icons
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:adinandrewjura@gmail.com"
+[services]
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/TapPineapple"
+  [services.instagram]
+    disableInlineCSS = true
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/adin-jura-56a931255/"
-
-  [[params.social]]
-    name = "youtube"
-    url  = "https://www.youtube.com/channel/UCjZx7J4qfJhQzgtJOhZIG_Q"
-
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About Me"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
-  [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url       = "/resume.pdf"
+  [services.twitter]
+    disableInlineCSS = true

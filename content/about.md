@@ -1,13 +1,12 @@
 +++
-title = "About Me"
-date = "2023-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "Hugo Authors"
+title = "About"
+description = ""
+date = "2024-10-22"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Adin Jura"
 +++
 
-Welcome to my Webiste! My name is Adin, I am currently studying Cybersecurity at Western Washington University and Whatcom Community College. I'm working as a student employee with WWU ResTek as a Server Admin.
+Welcome to my Webiste! My name is Adin, I am currently studying Cybersecurity at Western Washington University and Whatcom Community College. I'm working as a student employee with WWU doing IT work.
 
-I like building servers and trying to break them (sometimes without trying), I also like to reverse engineer games. 
-
+I like building servers and trying to break them (usually not on purporse), I also like to reverse engineer games. 
 
