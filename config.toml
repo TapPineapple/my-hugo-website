@@ -1,4 +1,5 @@
 baseURL = "https://adinjura.com"
+#baseURL = "localhost"
 theme = "risotto"
 title = "Adin's Site"
 author = "Adin Jura"
@@ -54,13 +55,12 @@ icon = "fa-brands fa-youtube"
 title = "YouTube"
 url = "https://www.youtube.com/@tappineapple3381"
 
-#[menu]
-#
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 10
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume.pdf/"
+    weight = 10
 
 [taxonomies]
 category = "categories"
