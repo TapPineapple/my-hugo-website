@@ -2,7 +2,6 @@
 title = "About"
 description = ""
 date = "2024-10-22"
-aliases = ["about-us", "about-hugo", "contact"]
 author = "Adin Jura"
 +++
 
