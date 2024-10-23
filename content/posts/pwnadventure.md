@@ -137,6 +137,9 @@ The above code contains the actual logic for the noclip. We use the winapi funct
 
 All we are doing in this code is taking the current players position and doing some vector math to determine what we should change the position to. We only take into account the current Yaw of the player character (which way we are looking). This way you can hold `W` and you will move in the direction you are looking.
 
+Here's a fun picture of it in action!
+![pwnfly](/img/pwnfly.png)
+
 ## Summary
 
 Welp that just about wraps up this little project. I made this project for a different presentation that was intended to be an Intro to Game Hacking, but I figured that this code is still fun enough to do a little writeup about it. Hopefully someone found this intereseting, if you have any advice or anything else you can contact me on discord @ `tappineapple`
