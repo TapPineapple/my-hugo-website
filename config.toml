@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://adinjura.com"
 theme = "risotto"
 title = "Adin's Site"
 author = "Adin Jura"
