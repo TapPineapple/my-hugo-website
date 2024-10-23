@@ -59,7 +59,7 @@ url = "https://www.youtube.com/@tappineapple3381"
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/resume.pdf/"
+    url = "/resume.pdf"
     weight = 10
 
 [taxonomies]
