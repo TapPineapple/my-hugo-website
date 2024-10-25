@@ -1,5 +1,5 @@
 +++
-title = "Easy Crackme (WIP)"
+title = "Easy Crackme"
 description = ""
 type = ["posts","post"]
 tags = [
@@ -13,9 +13,13 @@ categories = [
 +++
 
 
-## Easy Crackme Tutorial (WIP)
+## Easy Crackme Tutorial
 
-This writeup could be used as a refrence in addition to the youtube video that I made. 
+In this video we will be using IDA to reverse an 'easy' crackme that we found.
+
+Here's a list of tools that we used in the video:
+- Detect It Easy (Die)
+- Ida Pro
 
 ## Video
 {{< youtube RltVSsTkBto >}}
