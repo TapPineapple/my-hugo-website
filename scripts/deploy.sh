@@ -2,11 +2,15 @@
 
 # Repository and website paths
 REPO_PATH="/home/github/git/my-hugo-website"
-WEBSITE_PATH="/var/www/public"
 
 # Ensure repo directory exists
 if [ ! -d "$REPO_PATH" ]; then
-    git clone https://github.com/TapPineapple/my-hugo-website.git "$REPO_PATH"
+    echo "Cloning repository..."
+    git clone --recursive https://github.com/TapPineapple/my-hugo-website.git "$REPO_PATH"
+else
+    echo "Repository exists, updating..."
+    cd "$REPO_PATH" || exit
+    git submodule update --init --recursive
 fi
 
 # Navigate to repo directory
@@ -16,9 +20,7 @@ cd "$REPO_PATH" || exit
 git fetch origin main
 git reset --hard origin/main
 
+# Build the Hugo site
 hugo 
-
-# Copy built files to web root
-cp -r $REPO_PATH/public/* "$WEBSITE_PATH"
 
 echo "Deployment completed successfully"
