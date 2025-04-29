@@ -12,4 +12,4 @@ jobs:
           username: github
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
-          script: whoami
+          script_path: /scripts/deploy.sh
