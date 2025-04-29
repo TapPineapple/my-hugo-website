@@ -6,7 +6,7 @@ WEBSITE_PATH="/var/www/public"
 
 # Ensure repo directory exists
 if [ ! -d "$REPO_PATH" ]; then
-    git clone https://github.com/owner/my-hugo-website.git "$REPO_PATH"
+    git clone https://github.com/TapPineapple/my-hugo-website.git "$REPO_PATH"
 fi
 
 # Navigate to repo directory
