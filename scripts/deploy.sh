@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Repository and website paths
-REPO_PATH="~/git/my-hugo-website"
+REPO_PATH="/home/github/git/my-hugo-website"
 WEBSITE_PATH="/var/www/public"
 
 # Ensure repo directory exists
