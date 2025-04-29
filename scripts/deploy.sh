@@ -19,6 +19,6 @@ git reset --hard origin/main
 hugo 
 
 # Copy built files to web root
-sudo cp -r public/* "$WEBSITE_PATH"
+sudo cp -r $REPO_PATH/public/* "$WEBSITE_PATH"
 
 echo "Deployment completed successfully"
