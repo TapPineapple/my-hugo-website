@@ -16,7 +16,7 @@ categories = [
 
 In this post, I will be going over the basics of writing game cheats. We will be messing with the game [Pwn Adventure 3](https://www.pwnadventure.com/). This game was made to be a part of a CTF, so this game was made to be hacked. This makes it the perfect target to start learning this stuff!
 
-The project that is refrenced in this post is on my GitHub [here](https://github.com/TapPineapple/pwn-adventure-fun).
+The project that is referenced in this post is on my GitHub [here](https://github.com/TapPineapple/pwn-adventure-fun).
 
 We will go over the following:
 - Hooking
@@ -36,9 +36,9 @@ This will hopefully all make more sense when we get to actually coding up the pr
 ## Finding the players position & velocity variables
 There are likely many different ways to to find these values but I will be going over the method that I used.
 
-I used floating point scans in cheat engine to find the value for the players position on the vertical axis. Once I found that, it was right after the X,Y values for the player's postion in memory. Next I opened up the memory view and looked around for values that could resemble the players velocity address.
+I used floating point scans in cheat engine to find the value for the players position on the vertical axis. Once I found that, it was right after the X,Y values for the player's position in memory. Next I opened up the memory view and looked around for values that could resemble the players velocity address.
 
-Once I found these two memory locations, I attached the cheat engine debugger and clicked "find out what accesses this address". My goal in doing this is to find a good function to use that refrences these variables in the registers. This is useful to know because we need to be able to find these addresses somehow in our cheat. We will be able to copy the address out of the registers in the game's code into a variable in our noclip code.
+Once I found these two memory locations, I attached the cheat engine debugger and clicked "find out what accesses this address". My goal in doing this is to find a good function to use that references these variables in the registers. This is useful to know because we need to be able to find these addresses somehow in our cheat. We will be able to copy the address out of the registers in the game's code into a variable in our noclip code.
 
 Hopefully this will make more sense when we look at it in the actual source code.
 
@@ -142,4 +142,4 @@ Here's a fun picture of it in action!
 
 ## Summary
 
-Welp that just about wraps up this little project. I made this project for a different presentation that was intended to be an Intro to Game Hacking, but I figured that this code is still fun enough to do a little writeup about it. Hopefully someone found this intereseting, if you have any advice or anything else you can contact me on discord @ `tappineapple`
+Welp that just about wraps up this little project. I made this project for a different presentation that was intended to be an Intro to Game Hacking, but I figured that this code is still fun enough to do a little writeup about it. Hopefully someone found this interesting, if you have any advice or anything else you can contact me on discord @ `tappineapple`
