@@ -1,0 +1,20 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User ID:	tappineapple
+Comment: Valid from:	2025-05-05 9:52 a.m.
+Comment: Valid until:	2028-05-05 12:00 p.m.
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User IDs
+Comment: Fingerprint:	6B1D961457B81211A0CFDFA3DF76750A39E2AB02
+
+mDMEaBjs4xYJKwYBBAHaRw8BAQdArnkHGtuWA4TLxbrnuhgXp8Qa1XQpt0t/5kq/
+K6P2MDC0DHRhcHBpbmVhcHBsZYiZBBMWCgBBFiEEax2WFFe4EhGgz9+j33Z1Cjni
+qwIFAmgY7OMCGwMFCQWlCc0FCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQ
+33Z1CjniqwIt5AD/Yb4ooPyHXp/VBIq4xAFWYT+FylrJSJ4fplnkmFLbttQA/0g+
+GcLV+1sUxHzgQ7jAVcyT+UBJXPPGYwHtoxuC3zcLuDgEaBjs4xIKKwYBBAGXVQEF
+AQEHQGLvCKBzaHk2Vge9A6nJmH/zoV1fJre5xE76TLaFimBfAwEIB4h+BBgWCgAm
+FiEEax2WFFe4EhGgz9+j33Z1CjniqwIFAmgY7OMCGwwFCQWlCc0ACgkQ33Z1Cjni
+qwKngQEAv8j8dGAa3DdNGzKlKdZP474kTkr4khpvINOxEhoVMpsBANCSyNITDm+w
+FYOwPAG+R8Cottjaq+BKXUnK3oxL3GIC
+=Zb4+
+-----END PGP PUBLIC KEY BLOCK-----
+

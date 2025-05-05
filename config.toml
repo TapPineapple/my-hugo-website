@@ -266,6 +266,11 @@ disableHugoGeneratorInject = false
     identifier = "resume"
     name       = "Resume"
     url        = "/resume.pdf"
+
+  [[menu.main]]
+    identifier = "gpg"
+    name       = "GPG"
+    url        = "/gpg.txt"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
