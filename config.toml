@@ -177,8 +177,8 @@ disableHugoGeneratorInject = false
   # A better internet.
   # Uncomment this to enable Commento.
   #
-  [params.commento]
-   url = "https://cdn.commento.io"
+  # [params.commento]
+  #  url = "https://cdn.commento.io"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
   # Addon: Utteranc.es
@@ -187,14 +187,14 @@ disableHugoGeneratorInject = false
   # See https://utteranc.es/ for documentation
   # Uncomment this to enable Utteranc.es.
   #
-  # [params.utterances]
-  #   Your GitHub repository
-  #
-  #   repository = ""
-  #
-  #   label used for GitHub issues
-  #
-  #   label      = ""
+  [params.utterances]
+  # Your GitHub repository
+ 
+    repository = "https://github.com/TapPineapple/my-hugo-website"
+ 
+  #  label used for GitHub issues
+ 
+    label      = "site-comments"
   # 
   #   Blog Post <-> Issue mapping. This parameter is optional. Possible values are:
   #      - pathname
@@ -217,7 +217,7 @@ disableHugoGeneratorInject = false
   #      - boxy-light
   #      - gruvbox-dark
   #
-  #   theme      = ""
+    theme      = "github-dark"
   # 
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
