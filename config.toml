@@ -188,9 +188,7 @@ disableHugoGeneratorInject = false
   # Uncomment this to enable Utteranc.es.
   #
   [params.utterances]
-  # Your GitHub repository
- 
-    repository = "https://github.com/TapPineapple/my-hugo-website"
+    repository = "TapPineapple/my-hugo-website"
  
   #  label used for GitHub issues
  

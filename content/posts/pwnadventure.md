@@ -4,7 +4,6 @@ description = ""
 type = ["posts","post"]
 tags = [
 ]
-comments = true
 date = "2024-10-23"
 categories = [
     "c++",
